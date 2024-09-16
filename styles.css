@@ -314,10 +314,6 @@ section{
     transition: 3s;
 }
 
-.home-imgHover:hover{
-    background: var(--bg-color);
-    opacity: .8;
-}
 
 
 .about{
